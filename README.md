@@ -10,10 +10,10 @@ Repository:
 [https://github.com/sheilaalemany/hurricane-rnn]([url](https://github.com/sheilaalemany/hurricane-rnn))
 
 ## Required Packages
-pandas
-numpy
-keras
-matplotlib
+* pandas
+* numpy
+* keras
+* matplotlib
 
 
 ## Known Issues
